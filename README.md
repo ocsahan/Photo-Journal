@@ -6,3 +6,4 @@ Today and Social widgets allow the user to use journal features without opening 
 ## Screenshots
 ### Launch & Home Screens
 ![Launch Screen](/Screenshots/launch_screen.png?raw=true) ![Launch Screen](/Screenshots/photos.png?raw=true&s=50)
+<img src="/Screenshots/launch_screen.png" width="48">
